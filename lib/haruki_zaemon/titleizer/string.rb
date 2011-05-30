@@ -1,3 +1,5 @@
+#   encoding: utf-8
+#
 #   This filter changes all words to Title Caps, and attempts to be clever
 #   about *un*capitalizing small words like a/an/the in the input.
 #
